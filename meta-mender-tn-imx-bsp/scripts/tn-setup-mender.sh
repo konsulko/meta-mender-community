@@ -2,7 +2,7 @@
 #
 # Copyright 2020 Northern.tech
 
-. tn-setup-release.sh $@
+. edm-setup-release.sh $@
 
 if [ $? != 0 ]; then
   echo ""
